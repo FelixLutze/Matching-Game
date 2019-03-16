@@ -11,7 +11,7 @@ Try it out on https://dev.felixlutze.net/matching-game/
 
 You'll need a modern Browser like chrome or firefox to run it properly.
 
-### Examples
+## Examples
 
 ![Alt text](https://dev.felixlutze.net/imgs/matching-game-playing.png "Optional title")
 ![Alt text](https://dev.felixlutze.net/imgs/matching-game-winning.png "Optional title")
