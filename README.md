@@ -1,7 +1,6 @@
 # Matching-Game
 
-Play the Matching Game against yourself.
-Written in HTML, CSS and JavaScript.
+Play the Matching Game against yourself.  Written in HTML, CSS and JavaScript.
 
 ## Getting Started
 
