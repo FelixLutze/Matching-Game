@@ -1,6 +1,6 @@
 # Matching-Game
 
-Play the Matching Game against yourself.  Written in HTML, CSS and JavaScript.
+Play the Matching Game against the time.
 
 ## Getting Started
 
@@ -8,8 +8,7 @@ Try it out on https://dev.felixlutze.net/matching-game/
 
 ### Prerequisites
 
-You'll need a modern Browser like chrome or firefox to run it properly.
-
+A modern web browser is recommended to support the JavaScript used in the app.
 
 ## Examples
 
