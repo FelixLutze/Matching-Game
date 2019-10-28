@@ -8,7 +8,7 @@ Try it out on https://dev.felixlutze.net/matching-game/
 
 ### Prerequisites
 
-A modern web browser is recommended to support the JavaScript used in the app.
+A modern web browser is recommended to support the JavaScript used by the game.
 
 ## Examples
 
